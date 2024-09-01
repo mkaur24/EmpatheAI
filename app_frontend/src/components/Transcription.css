@@ -1,0 +1,16 @@
+.transcription-container {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #4EA8DE;
+    border-radius: 10px;
+    background-color: #CAF0F8;
+}
+
+h2 {
+    color: #03045E;
+}
+
+p {
+    color: #03045E;
+    font-size: 16px;
+}
