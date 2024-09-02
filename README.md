@@ -1,8 +1,8 @@
 This repository contains the code for both the backend and frontend of the EmpatheAI Application, designed to process audio inputs, transcribing speech, translating between languages, and summarizing the key points of conversations using advanced machine learning models. The application is split into two main components:
 
-**Backend (app_backend/)** - A Flask API hosted on Google Colab, which handles audio processing, transcription tasks, and integration with AI models.
+_Backend (app_backend/)_- A Flask API hosted on Google Colab, which handles audio processing, transcription tasks, and integration with AI models.
 
-**Frontend (app_frontend/)** - A React-based user interface built to allow users to upload audio files and view the transcribed text.
+_Frontend (app_frontend/)_ - A React-based user interface built to allow users to upload audio files and view the transcribed text.
 
 
 
